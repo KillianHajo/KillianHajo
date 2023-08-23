@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KillianHajo
 - 👀 I’m interested in intelligece artificial
 - 🌱 I’m currently learning HTML, CSS, Java, PHP, Symphony, ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me killian.serieux@gmail.com
 
 <!---
